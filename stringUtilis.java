@@ -1,0 +1,1 @@
+it have string functions
